@@ -14,7 +14,7 @@ A full-stack file sharing platform built with React, Express, MySQL, and Sequeli
 - [Features](#features)
 - [Database Models](#database-models)
 
-## Tech Stack
+## Tech Stack - Information
 
 ### Backend
 - **Runtime**: Node.js
